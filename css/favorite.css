@@ -1,6 +1,6 @@
 html {
-    margin: 0;
-    padding: 0;
+    margin: auto;
+    padding: auto;
 }
 body {
     font: 100% georgia, sans-serif;
@@ -14,6 +14,17 @@ h1 {
     color: ivory;
     text-align: center;
 }
+span {
+    background: skyblue;
+}
+h4 {
+    color: ivory;
+    text-align: left;
+}
 p {
     color: ivory;
+    text-align: left;
+    padding: 0mm;
+    margin: 0cm;
 }
+

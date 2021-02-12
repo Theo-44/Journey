@@ -1,14 +1,28 @@
 html {
     margin: auto;
     padding: o;
+    background-image: url('hd.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+div {
+    width: 100%;
+    height: 900px;
+    background-image: url('hd.jpg');
+    background-size: cover;
+    border: 2px solid #e3985a;
 }
 body {
     font: 100% georgia, sans-serif;
     line-height: 2.88889;
-    color: #555755;
+    color: ivory;
     background: #fff url();
 }
-
+ul {
+    text-align: left;
+}
+ol {
+    text-align: left;
+}
 h1 {
     color: blue;
     text-align: center;
@@ -20,6 +34,7 @@ h2 {
 }
 p {
     font-family: sans-serif;
+    text-align: left;
 }
 ul {
     line-height: 40px;

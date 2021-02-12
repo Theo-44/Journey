@@ -4,13 +4,16 @@ html {
 }
 body {
     font: 100% georgia, sans-serif;
+    text-align: center;
     line-height: 2.88889;
     color: #555755;
     background: #fff url(./images/elephants.jpg);
+    background-image: url(./images/black.jpeg);
 }
 h1 {
-    color: blue;
+    color: ivory;
+    text-align: center;
 }
 p {
-    background-color: ivory;
+    color: ivory;
 }

@@ -1,3 +1,14 @@
+html {
+    margin: auto;
+    padding: o;
+}
+body {
+    font: 100% georgia, sans-serif;
+    line-height: 2.88889;
+    color: #555755;
+    background: #fff url();
+}
+
 h1 {
     color: blue;
     text-align: center;

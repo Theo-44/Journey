@@ -8,3 +8,9 @@ body {
     color: #555755;
     background: #fff url(./images/elephants.jpg);
 }
+h1 {
+    color: blue;
+}
+p {
+    background-color: ivory;
+}

@@ -1,7 +1,19 @@
 html {
     margin: auto;
     padding: o;
-    background-image: url('hd.jpg') no-repeat center fixed;
+    background-image: url('hd.jpg');
+    background-size: cover;
+}
+.bg {
+    /* The image used */
+    background-image: url("hd.jpg");
+
+    /* Full Height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 div {
@@ -9,7 +21,6 @@ div {
     height: 900px;
     background-image: url('hd.jpg');
     background-size: cover;
-    border: 2px solid #e3985a;
 }
 body {
     font: 100% georgia, sans-serif;
@@ -28,7 +39,13 @@ h1 {
     text-align: center;
 }
 h2 {
-    color: green;
+    color: rgb(144, 148, 144);
+    font-weight: bolder;
+    font-style: normal;
+    text-align: center;
+}
+h3 {
+    color: mintcream;
     font-style: italic;
     text-align: center;
 }
